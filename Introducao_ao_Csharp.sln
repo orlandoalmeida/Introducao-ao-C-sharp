@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tipos_de_Variaveis", "introdução ao visual csharp\tipos_de_Variaveis.csproj", "{AFAB3B17-89E7-4ACA-8F25-8989F90832CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora01", "Operadores_Aritimeticos\Calculadora01.csproj", "{24524B1D-08C8-4EEB-B60B-FD2F853510E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFAB3B17-89E7-4ACA-8F25-8989F90832CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFAB3B17-89E7-4ACA-8F25-8989F90832CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFAB3B17-89E7-4ACA-8F25-8989F90832CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFAB3B17-89E7-4ACA-8F25-8989F90832CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24524B1D-08C8-4EEB-B60B-FD2F853510E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24524B1D-08C8-4EEB-B60B-FD2F853510E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24524B1D-08C8-4EEB-B60B-FD2F853510E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24524B1D-08C8-4EEB-B60B-FD2F853510E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
